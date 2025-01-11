@@ -24,27 +24,33 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style="margin-right: 10px;" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg" style="margin-right: 10px;" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="margin-right: 10px;" />
+
+
+
+<h2>Tools</h2>
+<div style="display: inline-block;">
+
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=X8gXMElru7dO&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=uYOzNvQCZRWo&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" style="margin-right: 10px;" />
 
 
 
 
 
-
-</div> <br><br>
- 
-
-### Other Knowledge:
-![Robotics](https://img.shields.io/badge/-Robotics-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
-![G-Code](https://img.shields.io/badge/-G.Code-0D1117?style=for-the-badge&logo=&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![3D-printing](https://img.shields.io/badge/-3D.printing-0D1117?style=for-the-badge&logo=&logoColor=purple&labelColor=0D1117)&nbsp; 
-![3D Modeling](https://img.shields.io/badge/-3D.Modeling-0D1117?style=for-the-badge&logo=&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
  </div> <br><br>
 
  
-### Other Knowledge:
+<h2>Other Knowledge</h2>
+<div style="display: inline-block;"></h2>
+<div style="display: inline-block;">
+
+
+
 ![Robotics](https://img.shields.io/badge/-Robotics-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![G-Code](https://img.shields.io/badge/-G.Code-0D1117?style=for-the-badge&logo=&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![3D-printing](https://img.shields.io/badge/-3D.printing-0D1117?style=for-the-badge&logo=&logoColor=purple&labelColor=0D1117)&nbsp; 
