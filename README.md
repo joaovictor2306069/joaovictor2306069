@@ -30,11 +30,11 @@
 <h2>Tools</h2>
 <div style="display: inline-block;">
 
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=X8gXMElru7dO&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=FUbB0fyOGEWZ&format=png&color=000000" style="margin-right: 10px;" />
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=uYOzNvQCZRWo&format=png&color=000000" style="margin-right: 10px;" />
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" style="margin-right: 10px;" />
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" style="margin-right: 10px;" />
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" style="margin-right: 10px;" />
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=pj15SuHu3Vlt&format=png&color=000000" style="margin-right: 10px;" />
 
 
 
